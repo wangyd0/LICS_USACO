@@ -3,7 +3,7 @@ Practice USACO problems from Section 2.4
 * * *
 **_Atom_** is used for this project!
 
-#####Recommand Plugins:
+#### Recommand Plugins: ####
 
 <table>
     <tr>
